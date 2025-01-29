@@ -16,4 +16,4 @@ A **classic Snake Game** built using **Python and Tkinter**, featuring **Pause, 
 ## 🚀 How to Play
 1. **Run the game** by executing the script:
    ```bash
-   python snake_game.py
+   python snake.py
