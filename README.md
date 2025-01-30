@@ -17,7 +17,7 @@ A **classic Snake Game** built using **Python and Tkinter**, featuring **Pause, 
 1️⃣ **Run the game** by executing the script:
    ```bash
    python snake.py
-
+```
 ### 2️⃣ Control the snake using arrow keys:
 
 ⬅️ **Left Arrow** – Move Left  
