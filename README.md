@@ -22,11 +22,6 @@ Install Tkinter (usually included with Python):
 pip install tk
 ```
 
-Run the script:
-```bash
-python snake.py
-```
-
 ## 🚀 How to Play
 1️⃣ **Run the game** by executing the script:
    ```bash
