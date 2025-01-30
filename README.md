@@ -14,6 +14,36 @@ A **classic Snake Game** built using **Python and Tkinter**, featuring **Pause, 
 ---
 
 ## 🚀 How to Play
-1. **Run the game** by executing the script:
+1️⃣ **Run the game** by executing the script:
    ```bash
    python snake.py
+
+### 2️⃣ Control the snake using arrow keys:
+
+⬅️ **Left Arrow** – Move Left  
+➡️ **Right Arrow** – Move Right  
+⬆️ **Up Arrow** – Move Up  
+⬇️ **Down Arrow** – Move Down  
+
+### Game Rules:
+
+🥕 **Eat food** to increase your score.  
+🚧 **Avoid colliding** with walls or yourself.  
+🔄 **Press Pause** to stop the game and **Resume** to continue.  
+
+---
+
+## 🛠 Installation
+
+Ensure Python is installed (Recommended: **Python 3.7+**)
+
+Install Tkinter (usually included with Python):
+```bash
+pip install tk
+```
+
+Run the script:
+```bash
+python snake.py
+```
+
