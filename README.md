@@ -13,6 +13,20 @@ A **classic Snake Game** built using **Python and Tkinter**, featuring **Pause, 
 
 ---
 
+## 🛠 Installation
+
+Ensure Python is installed (Recommended: **Python 3.7+**)
+
+Install Tkinter (usually included with Python):
+```bash
+pip install tk
+```
+
+Run the script:
+```bash
+python snake.py
+```
+
 ## 🚀 How to Play
 1️⃣ **Run the game** by executing the script:
    ```bash
@@ -33,17 +47,4 @@ A **classic Snake Game** built using **Python and Tkinter**, featuring **Pause, 
 
 ---
 
-## 🛠 Installation
-
-Ensure Python is installed (Recommended: **Python 3.7+**)
-
-Install Tkinter (usually included with Python):
-```bash
-pip install tk
-```
-
-Run the script:
-```bash
-python snake.py
-```
 
