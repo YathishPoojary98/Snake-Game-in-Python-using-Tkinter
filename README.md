@@ -46,7 +46,7 @@ pip install tk
 Here’s a preview of the game:
 
 <p align="center">
-  <img src="images/screenshot.png" alt="Snake Game Screenshot">
+  <img src="images/snake.png" alt="Snake Game Screenshot">
 </p>
 
 
