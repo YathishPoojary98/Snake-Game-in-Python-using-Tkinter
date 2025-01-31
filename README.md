@@ -41,5 +41,10 @@ pip install tk
 🔄 **Press Pause** to stop the game and **Resume** to continue.  
 
 ---
+## 📸 Screenshot
+
+Here’s a preview of the game:
+
+![Snake Game Screenshot](images/snake.png)
 
 
